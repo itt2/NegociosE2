@@ -1,0 +1,16 @@
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    position:static;
+    text-align: center;
+    color: #fff;
+
+}
+.footer img{
+    width: 70px;
+    height: 30px;
+    float: left;
+   position: relative;
+}

@@ -1,0 +1,114 @@
+[
+	{
+		"id": 1,
+		"marca": "Camara PTZ",
+		"imagen": "img/hik.jpg",
+		"precio": "4340",
+		"detalles": ["4mpx","Hikvi"]
+	},
+	{
+		"id": 2,
+		"marca": "Camara PTZ ",
+		"imagen": "img/dahua.png",
+		"precio": "4000",
+		"detalles": ["3mpx","Lunix"]
+	},
+	{
+		"id": 3,
+		"marca": "Camara PTZ",
+		"imagen": "img/ptz3.jpg",
+		"precio": "2300",
+		"detalles": ["4mpx","Seevac"]
+	},
+	{
+		"id": 4,
+		"marca": "Camara PTZ",
+		"imagen": "img/ptz4.jpg",
+		"precio": "4500",
+		"detalles": ["4mpx","Dahua"]
+	},
+	{
+		"id": 5,
+		"marca": "Camara-Domo",
+		"imagen": "img/domo.jpg",
+		"precio": "440",
+		"detalles": ["4mpx","Dahua"]
+	},
+	{
+		"id": 6,
+		"marca": "Camara-Domo",
+		"imagen": "img/domo2.jpg",
+		"precio": "690",
+		"detalles": ["3mpx","Winet"]
+	},
+	{
+		"id": 7,
+		"marca": "Camara-Domo",
+		"imagen": "img/domo3.jpg",
+		"precio": "1300",
+		"detalles": ["4mpx","Ezviz"]
+	},
+	{
+		"id": 8,
+		"marca": "Camara-Domo",
+		"imagen": "img/domo4.jpg",
+		"precio": "770",
+		"detalles": ["4mpx","Hikvi"]
+	},
+	{
+		"id": 9,
+		"marca": "Camara-BALA",
+		"imagen": "img/bala.jpg",
+		"precio": "440",
+		"detalles": ["4mpx","Dahua"]
+	},
+	{
+		"id": 10,
+		"marca": "Camara-BALA",
+		"imagen": "img/bala2.jpg",
+		"precio": "650",
+		"detalles": ["3mpx","Hiklok"]
+	},
+	{
+		"id": 11,
+		"marca": "Camara-BALA",
+		"imagen": "img/bala2.jpg",
+		"precio": "1410",
+		"detalles": ["2mpx","Ezviz"]
+	},
+	{
+		"id": 12,
+		"marca": "Camara-BALA",
+		"imagen": "img/bala3.jpg",
+		"precio": "970",
+		"detalles": ["1mpx","Saxon"]
+	},
+	{
+		"id": 13,
+		"marca": "DVR - SAMSUNG",
+		"imagen": "img/dvr.jpg",
+		"precio": "900",
+		"detalles": ["2 GB RAM", "COLOR BLANCO", "1 TB DD"]
+	},
+	{
+		"id": 14,
+		"marca": "DVR - SONY",
+		"imagen": "img/dvr1.jpg",
+		"precio": "1600",
+		"detalles": ["4 GB RAM", "COLOR NEGRO", "1 TB DD"]
+	},
+	{
+		"id": 13,
+		"marca": "DVR - SAXON",
+		"imagen": "img/dvr2.jpg",
+		"precio": "1300",
+		"detalles": ["2 GB RAM", "COLOR NEGRO", "1 TB DD"]
+	},
+	{
+		"id": 15,
+		"marca": "DVR - SAXON",
+		"imagen": "img/dvr3.jpg",
+		"precio": "1180",
+		"detalles": ["3 GB RAM", "COLOR NEGRO", "1 TB DD"]
+	}
+]
